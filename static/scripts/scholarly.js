@@ -7,8 +7,8 @@ try {
 }
     // Define a simple object to store username-password pairs
     var users = {
-      "pooxieuser": "iamnotafuckingitadmin",
-      "pooxieadmin": "adminsricky",
+      "pooxieuser": "itadminsarestupid!",
+      "pooxieadmin": "admconslelog",
       // Add more users as needed
     };
 
